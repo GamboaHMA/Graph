@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Inicio/1.0.0": {
+        "dependencies": {
+          "Grafos": "1.0.0"
+        },
+        "runtime": {
+          "Inicio.dll": {}
+        }
+      },
+      "Grafos/1.0.0": {
+        "runtime": {
+          "Grafos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Inicio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Grafos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

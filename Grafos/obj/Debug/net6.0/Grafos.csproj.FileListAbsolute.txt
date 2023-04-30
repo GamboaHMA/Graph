@@ -1,0 +1,12 @@
+C:\Users\ManuelAlejandro\source\repos\Grafos\Grafos\bin\Debug\net6.0\Grafos.deps.json
+C:\Users\ManuelAlejandro\source\repos\Grafos\Grafos\bin\Debug\net6.0\Grafos.dll
+C:\Users\ManuelAlejandro\source\repos\Grafos\Grafos\bin\Debug\net6.0\ref\Grafos.dll
+C:\Users\ManuelAlejandro\source\repos\Grafos\Grafos\bin\Debug\net6.0\Grafos.pdb
+C:\Users\ManuelAlejandro\source\repos\Grafos\Grafos\obj\Debug\net6.0\Grafos.csproj.AssemblyReference.cache
+C:\Users\ManuelAlejandro\source\repos\Grafos\Grafos\obj\Debug\net6.0\Grafos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ManuelAlejandro\source\repos\Grafos\Grafos\obj\Debug\net6.0\Grafos.AssemblyInfoInputs.cache
+C:\Users\ManuelAlejandro\source\repos\Grafos\Grafos\obj\Debug\net6.0\Grafos.AssemblyInfo.cs
+C:\Users\ManuelAlejandro\source\repos\Grafos\Grafos\obj\Debug\net6.0\Grafos.csproj.CoreCompileInputs.cache
+C:\Users\ManuelAlejandro\source\repos\Grafos\Grafos\obj\Debug\net6.0\Grafos.dll
+C:\Users\ManuelAlejandro\source\repos\Grafos\Grafos\obj\Debug\net6.0\ref\Grafos.dll
+C:\Users\ManuelAlejandro\source\repos\Grafos\Grafos\obj\Debug\net6.0\Grafos.pdb
